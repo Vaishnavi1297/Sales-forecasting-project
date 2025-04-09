@@ -252,11 +252,5 @@ git clone https://github.com/atharvapathak/Sales_Forecasting_Project.git
 
 - Make changes and send [Pull Request](https://github.com/atharvapathak/Sales_Forecasting_Project/pull).
  
-### Need help?
 
- [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@atharvapathak&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/atharva-pathak-126021119/)
-
-:email: Feel free to contact me @ [atharvapathakb2w@gmail.com](https://mail.google.com/mail/)
-
-[![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=atharvapathakb2w@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/atharvapathak) [![Twitter Follow](https://img.shields.io/twitter/follow/pathak_atharva?style=social)](https://twitter.com/pathak_atharva)
 
